@@ -41,3 +41,7 @@ get `adj_knn_n2v_5.npy` in `temp/Amazon-Photo/`
 
 
 Feel free to replace `Amazon-Photo` to other datasets.
+
+Reference:
+
+Wen-Zhi Li, Chang-Dong Wang, Jian-Huang Lai, Philip S. Yu. "Towards Effective and Robust Graph Contrastive Learning with Graph Autoencoding", TKDE2023.
